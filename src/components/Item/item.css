@@ -1,0 +1,8 @@
+.producto{
+    display : block;
+    width: 300px;
+}
+
+.producto img{
+ object-fit: cover;
+}
